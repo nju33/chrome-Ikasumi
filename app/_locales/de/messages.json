@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Jogi",
+    "description": "ウェブストアで表示されるアプリ名"
+  },
+  "appDesc": {
+    "message": "Die Grauskala der Webseite",
+    "description": "ウェブストアで表示されるアプリの詳細説明"
+  }
+}

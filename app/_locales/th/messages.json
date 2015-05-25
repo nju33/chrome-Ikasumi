@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Jogi",
+    "description": "ウェブストアで表示されるアプリ名"
+  },
+  "appDesc": {
+    "message": "ระดับสีเทาของหน้าเว็บ!",
+    "description": "ウェブストアで表示されるアプリの詳細説明"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Jogi",
+    "description": "ウェブストアで表示されるアプリ名"
+  },
+  "appDesc": {
+    "message": "Web 페이지를 그레이 스케일 화",
+    "description": "ウェブストアで表示されるアプリの詳細説明"
+  }
+}
